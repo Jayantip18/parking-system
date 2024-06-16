@@ -1,9 +1,10 @@
 <!-- endpoints -->
 User:-
-https://parking-18e6.onrender.com/api/user
-https://parking-18e6.onrender.com/api/vehical
-https://parking-18e6.onrender.com/api/parkingspot
-https://parking-18e6.onrender.com/api/transaction
+https://parking-system-fnjr.onrender.com/api/user
+https://parking-system-fnjr.onrender.com/api/vehical
+https://parking-system-fnjr.onrender.com/api/parkingspot
+https://parking-system-fnjr.onrender.com/api/reservation
+https://parking-system-fnjr.onrender.com/api/transaction
 
               
 
